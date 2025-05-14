@@ -1,0 +1,1 @@
+curl --header "Content-Type: application/json" --request POST --data "{\"CardNumber\": \"4539451234567890\", \"Amount\": 1500}" http://127.0.0.1:5000/detect
